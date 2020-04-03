@@ -1,6 +1,6 @@
 # Java
 
-## src/LanQiao  
+### src/LanQiao  
 蓝桥杯竞赛的练习代码  
   
 ## src/Practice  
