@@ -3,10 +3,10 @@
 ### src/LanQiao  
 蓝桥杯竞赛的练习代码  
   
-## src/Practice  
+### src/Practice  
 学习Java过程中的练习代码  
   
-## DataStructure  
+### DataStructure  
 数据结构的实验代码  
 Experiment1：打印机模拟程序  
     编写队列数据结构，完成模拟共享打印机的实现。先从文件中读取全部作业的提交时间、页面长度和计算机名称，并将其存储在工作负载队列中。使用一个计数器来模拟时间的流逝，当模拟的当前时间等于工作负载队列前面的打印作业的提交时间时，该任务被弹出，打印作业“到达”，并将其放入到另一个等待执行队列中。该打印机按照队列的先来先服务的准则完成打印工作。最后，计算出作业总数、总等待时间和平均等待时间。  
@@ -15,7 +15,7 @@ Experiment2：欧洲旅行最少费用
 LinkedList：链表  
 SequenceList：顺序表  
   
-## Operation  
+### Operation  
 操作系统的实验代码  
 Experiment1：进程的同步与互斥  
 一、问题分析：  
@@ -54,14 +54,14 @@ Experiment4：文件系统
 采用顺序表的数据结构储存文件信息。  
 Work:理发店  
 
-## NumericalAnalysis  
+### NumericalAnalysis  
 数值分析的实验代码  
 Guass：列主元Gauss消去法  
 GS：Gauss-Seidel迭代法  
 Jacobi：Jacobi迭代法  
 SOR：SOR迭代法  
 
-## Algorithm  
+### Algorithm  
 算法与结构的实验代码  
 Gray：Gray码问题  
 HireYacht：租用游艇问题
