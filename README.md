@@ -69,3 +69,8 @@ Gray：Gray码问题
 HireYacht：租用游艇问题
 MakeChange:找零钱问题   
 NQueens：N皇后问题  
+  
+## GourmetCoffee  
+系统介绍：控制台输出的咖啡销售系统，主要功能有：商品信息管理、商品销售、销售记录统计。
+设计实现：面向对象设计，涉及：继承（extends）、实现（implements）、接口定义、单例模式和策略模式、文件读写，以及多种数据结构。
+面向对象设计，
